@@ -11,3 +11,5 @@ versión 4 -> soy jhon un nuevo usuario saludos.
 VERSIÓN 5 -> PROBANDO CONEXIONES GIT
 
 Versión 6 -> Probando trabajo remoto
+
+Versión 7 -> Probando git versión 7
