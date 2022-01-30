@@ -3,3 +3,5 @@ Versión 1 -> Soy Brian esta es mi maquina
 Versión 2 -> Estoy con Jhon en mi maquina
 
 Versión 3 -> Soy la ultima versión, seré la verisón definitiva
+
+Versión de otra rama -> soy otra rama 
