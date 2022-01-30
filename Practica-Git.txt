@@ -12,4 +12,4 @@ VERSIÓN 5 -> PROBANDO CONEXIONES GIT
 
 Versión 6 -> Probando trabajo remoto
 
-Versión 7 -> Probando git versión 7
+versión 7 -> revisando codigo git
