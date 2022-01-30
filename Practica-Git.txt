@@ -1,1 +1,3 @@
 Versión 1 -> Soy Brian esta es mi maquina
+
+Versión 2 -> Estoy con Jhon en mi maquina
